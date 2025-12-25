@@ -17,5 +17,5 @@ This project checks the strength of a user-entered password and classifies it as
 gcc password_checker.c
 ./a.out
 
-Author
+## Author
 JC25-022
